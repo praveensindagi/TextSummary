@@ -1,0 +1,97 @@
+#fontstyle{
+   font-size: 20px;
+   font-family: Arial, Helvetica, sans-serif;
+   color: rgb(255, 255, 255);
+}
+.designtext{
+    width: 100%;
+    height: auto;
+    padding: 7px;
+    
+}
+#boxdesign{
+    background-color: #1d1c27;
+    border-left: 3px solid #f13be9;
+
+}
+#divider{
+
+    background-color: rgb(153, 162, 172);
+}
+#button{
+    background-color: #1d1c27;
+    color:#f13be9;
+}
+#appbar{
+    background-color:#1d1c27 ;
+    color: #f13be9;
+}
+.textbox{
+    border-color: wheat;
+}
+#import{
+    background-color: #1d1c27;
+
+}
+.typo{
+    color: #f13be9;
+}
+#designs{
+    background-color: #1d1c27;
+    border-left: 3px solid #f13be9;
+    padding: 10px;
+    color: aliceblue;
+}
+#designx{
+    background-color: #1d1c27;
+    border-bottom: 3px solid #3b65f1;
+    padding: 10px;
+    color: aliceblue;
+}
+.typo1{
+    color: #dff13b;
+}
+#designs1{
+    background-color: #1d1c27;
+    border-left: 3px solid #dff13b;
+    padding: 10px;
+    color: aliceblue;
+}
+.typo2{
+    color: #3b9ff1;
+}
+#designs2{
+    background-color: #1d1c27;
+    border-left: 3px solid #3b9ff1;
+    padding: 10px;
+    color: aliceblue;
+}
+.typo4{
+    color: #fa3a21;
+}
+#designs4{
+    background-color: #1d1c27;
+    border-left: 3px solid #fa3a21;
+    padding: 10px;
+    color: aliceblue;
+}
+.typo3{
+    color: #f13b78;
+}
+#designs3{
+    background-color: #1d1c27;
+    border-left: 3px solid #f13b78;
+    padding: 10px;
+    color: aliceblue;
+}
+#head{
+    color: #3b65f1;
+}
+.footer{
+    background-color:#1d1c27 ;
+   
+
+}
+#fhead{
+    color: aliceblue;
+}
